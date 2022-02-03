@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/full app/new Android/app/src/main/res/layout/activity_accountbalance.xml" value="0.1796875" />
+        <entry key="..\:/full app/new Android/app/src/main/res/layout/activity_admin_home.xml" value="0.1796875" />
+        <entry key="..\:/full app/new Android/app/src/main/res/layout/activity_admin_login.xml" value="0.22" />
+        <entry key="..\:/full app/new Android/app/src/main/res/layout/activity_cart.xml" value="0.3333333333333333" />
+        <entry key="..\:/full app/new Android/app/src/main/res/layout/activity_category.xml" value="0.1796875" />
+        <entry key="..\:/full app/new Android/app/src/main/res/layout/activity_customer.xml" value="0.1796875" />
+        <entry key="..\:/full app/new Android/app/src/main/res/layout/activity_customerproducts.xml" value="0.1796875" />
+        <entry key="..\:/full app/new Android/app/src/main/res/layout/activity_detail.xml" value="0.1796875" />
+        <entry key="..\:/full app/new Android/app/src/main/res/layout/activity_display_category.xml" value="0.1796875" />
+        <entry key="..\:/full app/new Android/app/src/main/res/layout/activity_display_product.xml" value="0.1796875" />
+        <entry key="..\:/full app/new Android/app/src/main/res/layout/activity_main.xml" value="0.1796875" />
+        <entry key="..\:/full app/new Android/app/src/main/res/layout/activity_product_insert.xml" value="0.1796875" />
+        <entry key="..\:/full app/new Android/app/src/main/res/layout/activity_profile.xml" value="0.16666666666666666" />
+        <entry key="..\:/full app/new Android/app/src/main/res/layout/activity_remove_customer.xml" value="0.1796875" />
+        <entry key="..\:/full app/new Android/app/src/main/res/layout/activity_remove_seller.xml" value="0.1796875" />
+        <entry key="..\:/full app/new Android/app/src/main/res/layout/activity_seller.xml" value="0.1796875" />
+        <entry key="..\:/full app/new Android/app/src/main/res/layout/activity_seller_homelog.xml" value="0.1796875" />
+        <entry key="..\:/full app/new Android/app/src/main/res/layout/activity_seller_profile.xml" value="0.1796875" />
+        <entry key="..\:/full app/new Android/app/src/main/res/layout/activity_signin.xml" value="0.1796875" />
+        <entry key="..\:/full app/new Android/app/src/main/res/layout/activity_signup.xml" value="0.1796875" />
+        <entry key="..\:/full app/new Android/app/src/main/res/layout/activity_splash_screen.xml" value="0.1796875" />
+        <entry key="..\:/full app/new Android/app/src/main/res/layout/activity_updateproduct.xml" value="0.1796875" />
+        <entry key="..\:/full app/new Android/app/src/main/res/layout/badge_layout.xml" value="0.1796875" />
+        <entry key="..\:/full app/new Android/app/src/main/res/layout/cart_item.xml" value="0.3333333333333333" />
+        <entry key="..\:/full app/new Android/app/src/main/res/layout/fragrance_card.xml" value="0.1796875" />
+        <entry key="..\:/full app/new Android/app/src/main/res/layout/row_category.xml" value="0.1796875" />
+        <entry key="..\:/full app/new Android/app/src/main/res/layout/row_customerremov.xml" value="0.1796875" />
+        <entry key="..\:/full app/new Android/app/src/main/res/layout/row_product.xml" value="0.22" />
+        <entry key="..\:/full app/new Android/app/src/main/res/layout/row_sellerremove.xml" value="0.1796875" />
+        <entry key="..\:/full app/new Android/app/src/main/res/menu/menu_main.xml" value="0.425" />
+        <entry key="..\:/new Android/app/src/main/res/drawable-v24/badge_circle.xml" value="0.19583333333333333" />
+        <entry key="..\:/new Android/app/src/main/res/drawable-v24/ic_shopping_cart_black_24dp.xml" value="0.19583333333333333" />
+        <entry key="..\:/new Android/app/src/main/res/drawable-xxxhdpi/appwidget_background.xml" value="0.19583333333333333" />
+        <entry key="..\:/new Android/app/src/main/res/drawable/badge_circle.xml" value="0.15989583333333332" />
+        <entry key="..\:/new Android/app/src/main/res/layout/activity_cart.xml" value="0.3333333333333333" />
+        <entry key="..\:/new Android/app/src/main/res/layout/activity_customer.xml" value="0.1796875" />
+        <entry key="..\:/new Android/app/src/main/res/layout/activity_customerproducts.xml" value="0.16666666666666666" />
+        <entry key="..\:/new Android/app/src/main/res/layout/activity_detail.xml" value="0.22" />
+        <entry key="..\:/new Android/app/src/main/res/layout/activity_fragrance_adapter.xml" value="0.1796875" />
+        <entry key="..\:/new Android/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/new Android/app/src/main/res/layout/activity_profile.xml" value="0.22" />
+        <entry key="..\:/new Android/app/src/main/res/layout/activity_seller.xml" value="0.1" />
+        <entry key="..\:/new Android/app/src/main/res/layout/activity_signin.xml" value="0.3333333333333333" />
+        <entry key="..\:/new Android/app/src/main/res/layout/activity_signup.xml" value="0.22" />
+        <entry key="..\:/new Android/app/src/main/res/layout/activity_splash_screen.xml" value="0.22" />
+        <entry key="..\:/new Android/app/src/main/res/layout/badge_layout.xml" value="0.17798913043478262" />
+        <entry key="..\:/new Android/app/src/main/res/layout/cart_item.xml" value="0.1796875" />
+        <entry key="..\:/new Android/app/src/main/res/layout/fragrance_card.xml" value="0.1796875" />
+        <entry key="..\:/new Android/app/src/main/res/layout/menu_main.xml" value="0.12771739130434784" />
+        <entry key="..\:/new Android/app/src/main/res/menu/menu_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/new Android/app/src/main/res/mipmap-anydpi-v26/ic_launch.webp.xml" value="0.1" />
+        <entry key="..\:/new Android/app/src/main/res/mipmap-anydpi-v26/ic_launcher_roun.png.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
